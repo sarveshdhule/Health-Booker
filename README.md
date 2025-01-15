@@ -7,10 +7,6 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ---
 
-### 🌐 Link:
-
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
-
 <br>
 
 ### 🛠️ Tools and technologies used :
@@ -25,19 +21,6 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&color=008712" alt="express"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit" /> </a>
-
-</div>
-
-<br>
-
-### 👋 Connect with me:
-
-<div align=center>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
-<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
 
 </div>
 
